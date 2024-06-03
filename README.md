@@ -8,7 +8,7 @@ Follow these steps to run the program:
 1. Clone this repository to your local machine.
    
 ```bash
-git clone https://github.com/yourusername/repository.git
+git clone URL
 ```
 
 2. Install the required dependencies using npm.
